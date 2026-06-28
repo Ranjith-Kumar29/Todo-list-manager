@@ -55,7 +55,7 @@ tkcalendar
 
 ## 👤 Author
 
-**Ranjith Kumar**
+**RANJITH KUMAR K**
 
 ## 📄 License
 
