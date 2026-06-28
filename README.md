@@ -2,7 +2,7 @@
 
 A modern, dashboard-style desktop **To-Do List application** built with **Python (Tkinter)**, **SQLite**, and **tkcalendar**. It offers a clean dark-themed UI with real-time statistics, priority sorting, search, and due-date reminders.
 
-<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/fe0e7d7d-e68a-4730-b9ce-1e5d6e4ac7cf" />
+<img width="960" height="505" alt="TODO LIST" src="https://github.com/user-attachments/assets/37e1eeb1-d62a-470a-a7ac-f37ab07fae19" />
 
 
 ## ✨ Features
